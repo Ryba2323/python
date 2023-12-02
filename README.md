@@ -1,2 +1,2 @@
 # python
-Projects in python
+Project in python
